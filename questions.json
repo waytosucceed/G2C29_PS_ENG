@@ -1,0 +1,350 @@
+{
+  "heading": "Action Verbs",
+  "topics": [
+    {
+      "heading": "Action Verbs",
+      "questions": [
+        {
+          "questionNo": 1,
+          "question": "Which word shows what the butterfly does?",
+          "options": [
+            {
+              "text": "pretty"
+            },
+            {
+              "text": "fly"
+            },
+            {
+              "text": "wing"
+            }
+          ],
+          "answer": 1,
+          "explanation": "\"Fly\" is the action verb. It shows how the butterfly moves its wings."
+        },
+        {
+          "questionNo": 2,
+          "question": "The chef _____ the vegetables for the soup.",
+          "options": [
+            {
+              "text": "sings"
+            },
+            {
+              "text": "chops"
+            },
+            {
+              "text": "flew"
+            }
+          ],
+          "answer": 1,
+          "explanation": "\"Chops\" is correct because it matches with \"The chef\" and shows what the chef does to the vegetables."
+        },
+        {
+          "questionNo": 3,
+          "question": "Which is the action word in \"The lion roars loudly\"?",
+          "options": [
+            {
+              "text": "roars"
+            },
+            {
+              "text": "lion"
+            },
+            {
+              "text": "loudly"
+            }
+          ],
+          "answer": 0,
+          "explanation": "\"Roars\" is the action verb because it tells us what the lion is doing."
+        },
+        {
+          "questionNo": 4,
+          "question": "The students _____ their hands before answering.",
+          "options": [
+            {
+              "text": "raise"
+            },
+            {
+              "text": "fly"
+            },
+            {
+              "text": "shouted"
+            }
+          ],
+          "answer": 0,
+          "explanation": "\"Raise\" is correct for students. It shows what the students do with their hands."
+        },
+        {
+          "questionNo": 5,
+          "question": "Which word shows an action?",
+          "options": [
+            {
+              "text": "happy"
+            },
+            {
+              "text": "smile"
+            },
+            {
+              "text": "friendly"
+            }
+          ],
+          "answer": 1,
+          "explanation": "\"Smile\" is an action verb because it's something you can do with your face movement. \"Happy\" and \"friendly\" describe feelings."
+        },
+        {
+          "questionNo": 6,
+          "question": "I _____ my favourite song every morning.",
+          "options": [
+            {
+              "text": "sing"
+            },
+            {
+              "text": "dance"
+            },
+            {
+              "text": "laugh"
+            }
+          ],
+          "answer": 0,
+          "explanation": "\"Sing\" is the right action verb to use with \"I\". It shows what you do with your favourite song."
+        },
+        {
+          "questionNo": 7,
+          "question": "What is the action in \"The frog leaps into the pond\"?",
+          "options": [
+            {
+              "text": "frog"
+            },
+            {
+              "text": "leaps"
+            },
+            {
+              "text": "pond"
+            }
+          ],
+          "answer": 1,
+          "explanation": "\"Leaps\" is the action verb because it shows what the frog does to get into the pond."
+        },
+        {
+          "questionNo": 8,
+          "question": "Which word shows what a bird does?",
+          "options": [
+            {
+              "text": "feather"
+            },
+            {
+              "text": "nest"
+            },
+            {
+              "text": "chirp"
+            }
+          ],
+          "answer": 2,
+          "explanation": "\"Chirp\" is the action verb. It shows the sound a bird makes from its mouth."
+        },
+        {
+          "questionNo": 9,
+          "question": "Which is the action word in \"The boy throws the ball\"?",
+          "options": [
+            {
+              "text": "boy"
+            },
+            {
+              "text": "throws"
+            },
+            {
+              "text": "ball"
+            }
+          ],
+          "answer": 1,
+          "explanation": "\"Throws\" is the action verb because it shows what the boy does with the ball."
+        },
+        {
+          "questionNo": 10,
+          "question": "We _____ our room every weekend.",
+          "options": [
+            {
+              "text": "clean"
+            },
+            {
+              "text": "sleep"
+            },
+            {
+              "text": "cry"
+            }
+          ],
+          "answer": 0,
+          "explanation": "\"Clean\" is the right action verb to use with \"We\". It shows what we do to our room."
+        },
+        {
+          "questionNo": 11,
+          "question": "Which word shows an action?",
+          "options": [
+            {
+              "text": "loud"
+            },
+            {
+              "text": "shout"
+            },
+            {
+              "text": "noisy"
+            }
+          ],
+          "answer": 1,
+          "explanation": "\"Shout\" is an action verb because it's something you can do. \"Loud\" and \"noisy\" describe sounds."
+        },
+        {
+          "questionNo": 12,
+          "question": "The baby _____ when it's hungry.",
+          "options": [
+            {
+              "text": "cries"
+            },
+            {
+              "text": "fly"
+            },
+            {
+              "text": "hide"
+            }
+          ],
+          "answer": 0,
+          "explanation": "\"Cries\" is correct for \"The baby\". It tells us what the baby does when hungry. They cry when they feel hungry."
+        },
+        {
+          "questionNo": 13,
+          "question": "They _____ to school by bus every day.",
+          "options": [
+            {
+              "text": "go"
+            },
+            {
+              "text": "fly"
+            },
+            {
+              "text": "jump"
+            }
+          ],
+          "answer": 0,
+          "explanation": "\"Go\" is the right action verb to use with \"They\". It shows how they travel to school."
+        },
+        {
+          "questionNo": 14,
+          "question": "Which is the action in \"The fish swims in the aquarium\"?",
+          "options": [
+            {
+              "text": "fish"
+            },
+            {
+              "text": "swims"
+            },
+            {
+              "text": "aquarium"
+            }
+          ],
+          "answer": 1,
+          "explanation": "\"Swims\" is the action verb because it shows what the fish does in the aquarium."
+        },
+        {
+          "questionNo": 15,
+          "question": "I _____ my hands after playing outside.",
+          "options": [
+            {
+              "text": "wash"
+            },
+            {
+              "text": "hide"
+            },
+            {
+              "text": "sleep"
+            }
+          ],
+          "answer": 0,
+          "explanation": "\"Wash\" is the right action verb to use with \"I\". It shows what you do with your hands after playing."
+        },
+        {
+          "questionNo": 16,
+          "question": "Which word shows what a dog might do?",
+          "options": [
+            {
+              "text": "fur"
+            },
+            {
+              "text": "bark"
+            },
+            {
+              "text": "paw"
+            }
+          ],
+          "answer": 1,
+          "explanation": "\"Bark\" is the action verb. It shows what a dog does with its mouth. Dogs bark."
+        },
+        {
+          "questionNo": 17,
+          "question": "Which is the action word in \"The girl skips rope\"?",
+          "options": [
+            {
+              "text": "girl"
+            },
+            {
+              "text": "rope"
+            },
+            {
+              "text": "skips"
+            }
+          ],
+          "answer": 2,
+          "explanation": "\"Skips\" is the action verb because it shows what the girl does with the rope."
+        },
+        {
+          "questionNo": 18,
+          "question": "Which word shows an action?",
+          "options": [
+            {
+              "text": "run"
+            },
+            {
+              "text": "quick"
+            },
+            {
+              "text": "fast"
+            }
+          ],
+          "answer": 0,
+          "explanation": "\"Run\" is an action verb because it's something you can do. \"Quick\" and \"fast\" describe how something happens."
+        },
+        {
+          "questionNo": 19,
+          "question": "What is the action in \"The rabbit hops in the garden\"?",
+          "options": [
+            {
+              "text": "rabbit"
+            },
+            {
+              "text": "hops"
+            },
+            {
+              "text": "garden"
+            }
+          ],
+          "answer": 1,
+          "explanation": "\"Hops\" is the action verb because it shows how the rabbit moves in the garden."
+        },
+        {
+          "questionNo": 20,
+          "question": "Choose the correct spelling: <br> <img src='./garden.png' width='160px' />",
+          "options": [
+            {
+              "text": "Garden"
+            },
+            {
+              "text": "Gurden"
+            },
+            {
+              "text": "Gerden"
+            }
+          ],
+          "answer": 0,
+          "explanation": "The correct spelling is “G-A-R-D-E-N.” It is a piece of land next to a house where flowers and vegetables can be grown."
+        }
+      ]
+    }
+  ]
+}
